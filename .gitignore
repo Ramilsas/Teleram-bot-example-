@@ -1,0 +1,13 @@
+__pychache__
+.idea
+
+venv/
+
+.env
+
+config.py 
+
+*.jpeg
+*.jpg
+*.
+
