@@ -10,4 +10,5 @@ config.py
 *.jpeg
 *.jpg
 *.
-
+tgbot.sqlite3
+mybot.py 
